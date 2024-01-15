@@ -1,9 +1,9 @@
-def capital(string):
+def capital(data):
     '''
-    функция принимает строку
+    функция 
     возвращает все заглавные буквы
     '''
-    return string.upper()
+    return data.upper()
 
 
 def capital_letter(string):

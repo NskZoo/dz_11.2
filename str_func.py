@@ -1,9 +1,12 @@
+
+
 def str_upper(string):
     '''
     функция принимает строку
     возвращает все заглавные буквы
     '''
-    return string.upper()
+    str_upper = string.upper()
+    return str_upper
 
 
 def capital_letter(string):
